@@ -1,4 +1,4 @@
-
+![Project Screenshot](rocket_connections.png)
 
 sudo nano /etc/systemd/system/start_both.service
 [Unit]
